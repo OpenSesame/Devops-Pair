@@ -29,13 +29,12 @@ Fork this repository.
 
 * Bootstrap and provision the server however you wish. Use user-data or a configuration management tool (such as Puppet, Chef or Ansible). Alternatively launch an idempotent AMI with packer and terraform, or even via the console. Be prepared to justify your decision!
 
-* Provide a heatlhcheck script that can be run externally to periodically check if the server is up and serving the expected version number.
+* Provide a healthcheck script that can be run externally to periodically check if the server is up and serving the expected version number.
 
 * Alter the README to contain the steps required to:
   * Create the server.
   * Run the healthcheck script.
 
-Give github users `aeells|schmiegelow` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
