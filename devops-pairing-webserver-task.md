@@ -17,15 +17,11 @@ You are required to provision and deploy a new service in AWS. It must:
 1.0.6
 ```
 
-# Prerequisites
-
-AWS creds/VPC and S3 bucket names etc will be provided when the exercise begins.
-
 # Mandatory Work
 
-Fork this repository.
+* Fork this repository.
 
-* Provide instructions on how to create the server.
+* Create a Free Tier AWS Account.
 
 * Bootstrap and provision the server however you wish. Use user-data or a configuration management tool (such as Puppet, Chef or Ansible). Alternatively launch an idempotent AMI with packer and terraform, or even via the console. Be prepared to justify your decision!
 
